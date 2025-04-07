@@ -184,3 +184,6 @@ __pycache__/
 addons/*/node_modules/
 addons/*/static/lib/
 
+postgres-data/
+
+
