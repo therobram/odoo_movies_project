@@ -1,0 +1,15 @@
+<odoo>
+  <data noupdate="1">
+
+    <record id="param_movies_api_url" model="ir.config_parameter">
+      <field name="key">movies_api_url</field>
+      <field name="value">https://random-data-api.com/api/v3/projects/a2bebcc5-69e3-4b4e-b8c0-4a2f4306f0da</field>
+    </record>
+
+    <record id="param_movies_api_key" model="ir.config_parameter">
+      <field name="key">movies_api_key</field>
+      <field name="value">ZN-BE0NeUFPRYdYrRZf7CQ</field>
+    </record>
+
+  </data>
+</odoo>
