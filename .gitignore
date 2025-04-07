@@ -184,6 +184,10 @@ __pycache__/
 addons/*/node_modules/
 addons/*/static/lib/
 
+# Archivos de sistema
+.DS_Store
+
+# Datos persistentes de PostgreSQL
 postgres-data/
 
 
